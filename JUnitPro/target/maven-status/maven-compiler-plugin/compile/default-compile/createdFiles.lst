@@ -1,0 +1,6 @@
+com\yash\annotation\YashSuiteProcessing.class
+com\yash\helper\DataSource.class
+com\yash\annotation\YashSuite.class
+com\yash\helper\ConnectionManager.class
+com\yash\annotation\YashSuiteClass.class
+com\yash\annotation\YashTest.class
